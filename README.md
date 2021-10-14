@@ -1,4 +1,4 @@
-## Hi there 👋  I'm Mila Zolotova!
+## Hi 👋  I'm Mila Zolotova!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milanick&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/milanick/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milanick&layout=compact&hide_border=true)](https://github.com/milanick/)
