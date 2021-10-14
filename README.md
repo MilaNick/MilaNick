@@ -1,5 +1,5 @@
 ### Hi there 👋  I'm Mila Zolotova!
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/visits/{milanick}/{https://github.com/milanick/})
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milanick&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/milanick/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milanick&layout=compact&hide_border=true)](https://github.com/milanick/)
 
