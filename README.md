@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Mila Zolotova!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milanick)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milanick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milanick&hide_border)](https://github.com/milanick/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milanick&layout=compact&hide_borde)](https://github.com/milanick/github-readme-stats)
   
 Hello. ✨  I am a novice developer. I study at Hexlet. The profession of a layout designer has already been passed, now I am studying JavaScript. I feel a lack of practice. If you need an intern - write, I will be glad ✨
 
