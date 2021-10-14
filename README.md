@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋  I'm Mila Zolotova
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MilaNick.visitor-badge)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milanick)](https://github.com/milanick/github-readme-stats)
+
 
 <!--
 **MilaNick/MilaNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
