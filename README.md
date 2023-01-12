@@ -1,8 +1,6 @@
 ### Hi there 👋  I'm Mila Zolotova! 
 ### ✨ [I invite you to look at my portfolio](https://milanick.github.io/) ✨
 [![codewars](https://www.codewars.com/users/MilaNick/badges/small?theme=dark)](https://www.codewars.com/users/MilaNick)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milanick&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark)](https://github.com/milanick/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milanick&layout=compact&hide_border=true&theme=dark)](https://github.com/milanick/)
 
 Hello. ✨ I am a frontend developer.  I am currently studying TypeScript. I feel a lack of practice. If you need an intern or a junior - write, I will be glad ✨
 
