@@ -2,7 +2,7 @@
 ### ✨ [I invite you to look at my portfolio](https://milanick.github.io/) ✨
 [![codewars](https://www.codewars.com/users/MilaNick/badges/small?theme=dark)](https://www.codewars.com/users/MilaNick)  
 
-Hello. ✨ I am a frontend developer.  I am currently studying TypeScript. I feel a lack of practice. If you need an intern or a junior - write, I will be glad ✨
+Hello. ✨ I am currently studying Php. I feel a lack of practice. If you need an intern or a junior - write, I will be glad ✨
 
 <!--
 **MilaNick/MilaNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
