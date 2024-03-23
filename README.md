@@ -1,8 +1,9 @@
 ### Hi there 👋  I'm Mila Zolotova! 
 ### ✨ [I invite you to look at my portfolio](https://milanick.github.io/) ✨
 [![codewars](https://www.codewars.com/users/MilaNick/badges/small?theme=dark)](https://www.codewars.com/users/MilaNick)  
-[tasks for js](https://codepen.io/collection/qOvKMg)
-Hello. ✨ Now I'm learning php and deepening my knowledge of js ✨
+
+Hello. ✨ Now I'm learning php and deepening my knowledge of js ✨  
+### [tasks for js](https://codepen.io/collection/qOvKMg)
 
 <!--
 **MilaNick/MilaNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
