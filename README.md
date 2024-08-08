@@ -2,7 +2,7 @@
 ### ✨ [I invite you to look at my portfolio](https://milanick.github.io/) ✨
 [![codewars](https://www.codewars.com/users/MilaNick/badges/small?theme=dark)](https://www.codewars.com/users/MilaNick)  
 
-Hello. ✨ Now I'm learning php and deepening my knowledge of js ✨  
+Hello. ✨ life-long learning ✨  
 ### [tasks for js](https://codepen.io/collection/qOvKMg)
 
 <!--
