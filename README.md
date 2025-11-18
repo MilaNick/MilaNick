@@ -3,9 +3,10 @@
 [![codewars](https://www.codewars.com/users/MilaNick/badges/small?theme=dark)](https://www.codewars.com/users/MilaNick)  
 
 Hello. ✨ I'm currently learning PHP and expanding my knowledge of JavaScript. I'm also exploring how to create effective prompts for AI interaction. ✨  
-### [tasks for js](https://codepen.io/collection/qOvKMg)
+
 
 <!--
+### [tasks for js](https://codepen.io/collection/qOvKMg)
 **MilaNick/MilaNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
